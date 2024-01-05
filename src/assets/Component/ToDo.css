@@ -1,0 +1,23 @@
+ 
+/* form{
+  display: flex;
+  justify-content: center;
+} */
+ input.text {
+    width: 30rem;
+    height: 3em;
+    border-radius: 20px;
+}
+button {
+ background-color: white;
+ border-radius: 20px;
+ height: 3rem;
+ width: 6rem;
+ color: black;
+ margin-left: 2px;
+  } 
+   button:hover {
+    border-color:red;
+  } 
+
+ 
